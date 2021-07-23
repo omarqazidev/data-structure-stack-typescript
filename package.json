@@ -1,0 +1,11 @@
+{
+    "name": "stack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "app": "node js/index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}
